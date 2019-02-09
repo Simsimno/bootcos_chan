@@ -16,3 +16,5 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 - git push origin master : 확정
 
 https://rogerdudler.github.io/git-guide/index.ko.html
+
+- help me
