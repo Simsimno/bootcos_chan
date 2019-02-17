@@ -51,17 +51,16 @@
 
 <tag class="title">안녕하세요</tag>
 
-<DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viemport" content="width=deviece-width">
-        <title>boostcourse</title>
-    </head>
-    <body>
-        웹프론트엔드
-    </body>
-    <script src="./main.js">
-    
-    </script>
-</html>
+## 웹 서버 소프트웨어의 종류
+
+- 가장 많이 사용함 : Apache, 마이크로소프트, 구글, Nginx
+- 인터넷 웹 서비스 netcraft //통계를 보여주는 곳임
+
+## WAS
+
+- 서비스를 제공 : 서버 / 웹 서버
+- 서버에게 서비스를 요청해서 보여줌 : 클라이언트 / 웹 브라우저
+- 데이터베이스를 관리 : DBMS / MySQL, MariaDB, Oracle, PostgreSQL
+- 클라이언트 DBMS 사이에 또다른 서버 : 미들웨어
+- 미들웨어 == WAS
+- WAS의 기능, 프로그램 실행 환경, 데이터 베이스 접속 기능, 여러개의 트랜잭션을 관리, 업무를 처리하는 비즈니스 로직을 실행한다.
