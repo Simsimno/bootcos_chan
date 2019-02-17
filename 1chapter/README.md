@@ -50,3 +50,18 @@
 - HTML은...트리 구조의 형태(데이터구조)
 
 <tag class="title">안녕하세요</tag>
+
+<DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viemport" content="width=deviece-width">
+        <title>boostcourse</title>
+    </head>
+    <body>
+        웹프론트엔드
+    </body>
+    <script src="./main.js">
+    
+    </script>
+</html>
