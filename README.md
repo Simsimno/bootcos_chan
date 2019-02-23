@@ -18,3 +18,5 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 https://rogerdudler.github.io/git-guide/index.ko.html
 
 - help me
+
+- shit
