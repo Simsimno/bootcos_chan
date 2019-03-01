@@ -81,4 +81,21 @@
 - 진심으로 고유한.
 
 ## CSS 선언
-- 
+- span { color : red; }
+- 선택자 + property + value
+- 스타일 적용하는 방법 3가지, inline, internal, external
+- inline : html 태그 안에 넣음
+- internal : html에 css를 집어넣음.
+- external : 별도의 css파일을 만듦
+
+## 상속과 우선순위 결정
+- 상속 : color, font-size 종류의 것들은 상속됨
+<br> border, padding 종류는 상속이 안됨.
+- cascading : 우선순위에 대해서, 중복이나 같은 노드일 때.
+<br> 기본 우선순위 inline > internal > external 동일하면 나중의 것이 적용
+body > span 같이 구체적으로 하면 우선순위 높음.
+id > class > element
+
+##CSS Selector
+- 엘리먼트를 빠르게 찾을 수 있는...문법
+- id, class, tag selector
