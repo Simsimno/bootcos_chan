@@ -64,4 +64,7 @@
 - img 태그 배움, <img src="img name" width="넓이" height="높이"
 
 ## HTML Layer 태그
+- header, section, nav, footer, aside 태그를 배움.
+
+## HTML 구조설계
 - 
