@@ -64,7 +64,21 @@
 - img 태그 배움, <img src="img name" width="넓이" height="높이"
 
 ## HTML Layer 태그
-- header, section, nav, footer, aside 태그를 배움.
+- header, section, nav, footer, aside.
+- header : 소개나 탐색을 돕는 것의 그룹임. 제목이나 로고, 구획의 제목, 탐색 폼과 같은 것들
+- section : 일반적인 구획, 컨텐츠의 주제그룹임. 한마디로 그룹의 경계선 같은ㄱㅓ
+- nav : 네비게이션 역할, 일종의 메뉴.
+- footer : 꼬릿말임
+- aside : 주요한 주제가 아님, 어디까지나 사이드, 참고용
 
 ## HTML 구조설계
+- img, button
+- img : 그림 넣는 거
+- button : 버튼.
+
+## class 와 id 속성
+- class 여러 것에 옷입히기 CSS
+- 진심으로 고유한.
+
+## CSS 선언
 - 
