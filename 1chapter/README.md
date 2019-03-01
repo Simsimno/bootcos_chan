@@ -96,6 +96,7 @@
 body > span 같이 구체적으로 하면 우선순위 높음.
 id > class > element
 
-##CSS Selector
+## CSS Selector
+
 - 엘리먼트를 빠르게 찾을 수 있는...문법
 - id, class, tag selector
