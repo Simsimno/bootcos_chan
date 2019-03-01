@@ -100,3 +100,8 @@ id > class > element
 
 - 엘리먼트를 빠르게 찾을 수 있는...문법
 - id, class, tag selector
+- 부모에게 상속받아 영향을 받을 수도 있다
+- px 단위, em 단위
+
+## Layout
+- display (block, inline, inline-block)
