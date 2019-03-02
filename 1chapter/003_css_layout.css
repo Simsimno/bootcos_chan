@@ -1,0 +1,31 @@
+.wrap{
+    position:relative;
+}
+.wrap > div{
+    width:150px;
+    height:100px;
+    border:1px solid gray;
+    font-size:0.7em;
+    text-align:center;
+    line-height:100px;
+}
+.relative{
+    position:relative;
+    left:0px;
+}
+.absolute{
+    position:absolute;
+    left:200px;
+    top:0px;
+}
+.fixed{
+    position:fixed;
+    top:210px;
+}
+.margin > div{
+    border:1px solid gray;
+}
+.bottom{
+    margin-top:10px;
+    margin-left:100px;
+}

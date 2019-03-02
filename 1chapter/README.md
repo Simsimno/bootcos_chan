@@ -105,3 +105,6 @@ id > class > element
 
 ## Layout
 - display (block, inline, inline-block)
+- position(static, absolute, relative, fixed)
+- float(left, right) 
+-

@@ -1,0 +1,41 @@
+h1{
+
+}
+.group{
+    position:relative;
+    border:1px solid black;
+    width:600px;
+    height:600px;
+}
+.group > div{
+    font-size:0.7em;
+    text-align:left;
+}
+.blue{
+    width:100px;
+    height:100px;
+    background-color: blue;
+}
+.green{
+    position:absolute;
+    width:500px;
+    top:0px;
+    height:100px;
+    left:100px;
+    background-color:green;
+}
+.red{
+    background-color: red;
+    width:600px;
+    height:100px;
+}
+.yellow{
+    background-color: yellow;
+    width:600px;
+    height:100px;
+}
+.purple{
+    background-color:purple;
+    width:600px;
+    height:100px;
+}
