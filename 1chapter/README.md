@@ -108,3 +108,8 @@ id > class > element
 - position(static, absolute, relative, fixed)
 - float(left, right) 
 -
+
+## float
+- list-style:none;
+- float, overfloaw-auto, wrap
+- margin-bottom, top
