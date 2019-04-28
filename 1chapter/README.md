@@ -113,3 +113,13 @@ id > class > element
 - list-style:none;
 - float, overfloaw-auto, wrap
 - margin-bottom, top
+
+## Servlet 작성방법
+- Servlet : 웹프로그래밍에서 클라이언트의 요청을 처리하고 
+그 결과를 다시 클라이언트에게 전송하는 Servlet 클래스의 구현 규칙을 지킨 자바 프로그래밍 기술
+- setContenttype : 동영상인지 이미지인지 알려주는 메서드
+- HttpServlet : 
+
+#2강
+
+##자바스크립트 기본
